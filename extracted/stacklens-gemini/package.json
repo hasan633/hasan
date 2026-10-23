@@ -1,0 +1,8 @@
+{
+  "name": "stacklens-gemini",
+  "private": true,
+  "version": "1.1.0",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": { "test": "node --test tests/chat.test.js" }
+}
